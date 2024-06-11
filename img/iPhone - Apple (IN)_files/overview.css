@@ -1,0 +1,5 @@
+.sosumi-link-follows[data-pricing-loaded],
+.sosumi-link-follows[data-pricing-loaded]~.footnote,
+.sosumi-link-follows[data-pricing-loaded]~.product-addition {
+    display: inline-block;
+}
